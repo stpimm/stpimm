@@ -1,4 +1,4 @@
-- 👋 Hello! My name is Immanuel Sitepu, i am second-year computer science student at BINUS. 
+- 👋 Hello! My name is Immanuel Sitepu, second-year computer science student at BINUS. 
 - 👀 I’m interested in iOS Development
 
 <!---
